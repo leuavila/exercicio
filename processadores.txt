@@ -1,0 +1,11 @@
+Matilda
+Processador: Intel Core i7-4790 
+Justificativa: https://www.systemrequirementslab.com/cyri/requirements/cyberpunk-2077/13169
+
+Marcelo
+Processador: Intel Core i3-3217UE
+Justificativa: Suíte Office demanda menos capacidade de processamento.
+
+Carlos
+Processador: Intel Core i5-6360U 
+Justificativa: https://helpx.adobe.com/after-effects/system-requirements.html
